@@ -27,22 +27,22 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelompok3PemogramanFramework&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelompok3PemogramanFramework&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kel3PemrogramanFrameworkGit&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kel3PemrogramanFrameworkGit&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🚀 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelompok3PemogramanFramework&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kel3PemrogramanFrameworkGit&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kelompok3PemogramanFramework&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kel3PemrogramanFrameworkGit&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 🌎 Connect with Us  
 📌 **Kelompok 3 - Pemrograman Framework**  
 📧 **Email:** kelompok3@example.com  
-🔗 **GitHub:** [kelompok3PemogramanFramework](https://github.com/kelompok3PemogramanFramework)  
+🔗 **GitHub:** [kelompok3PemogramanFramework](https://github.com/Kel3PemrogramanFrameworkGit)  
 
 ---
 
